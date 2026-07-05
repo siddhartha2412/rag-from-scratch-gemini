@@ -1,0 +1,9 @@
+Retrieval-Augmented Generation (RAG) is a technique that combines information retrieval with large language models.
+
+Embeddings convert text into vectors.
+
+Vector databases store embeddings.
+
+Similarity search finds the most relevant chunks.
+
+Gemini uses the retrieved chunks to answer accurately.
